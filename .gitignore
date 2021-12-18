@@ -1,0 +1,8 @@
+#Ignore crash logs/dumps
+*.swp
+
+#Ignore wallet file
+wallet.dat
+
+#exe files
+*.exe
